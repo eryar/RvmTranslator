@@ -1,7 +1,7 @@
 # RvmTranslator
 RvmTranslator can translate the RVM file exported by AVEVA Plant(PDMS)/AVEVA Marine(Tribon) to STEP, IGES, STL, DXF, 3D PDF, OBJ, 3DXML, IFC,.etc. So it can be used for exchanging model data between other CAD software, such as Autodesk AutoCAD, Plant3d, 3ds Max, CATIA, Solidworks, Pro/E, Unity3d, DIALux, .etc.
 
-![Spooler model](https://img2018.cnblogs.com/blog/534255/201904/534255-20190428161020211-1577085947.png)
+![Spooler model](https://github.com/eryar/RvmTranslator/blob/master/1.png)
 
 ![Shipe Hull](https://img2018.cnblogs.com/blog/534255/201904/534255-20190428161058682-1238794957.png)
 
