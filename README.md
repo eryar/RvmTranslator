@@ -17,7 +17,7 @@ RvmTranslator can translate the RVM file exported by AVEVA Plant(PDMS)/AVEVA Mar
 
 ## Notice
 RvmTranslator is open source software.
-
+You can use 3D view function of RvmTranslator freely, other functions need pay for it.
 
 ## Download
 You can download RvmTranslator from the following address:
