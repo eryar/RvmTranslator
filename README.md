@@ -15,6 +15,10 @@ RvmTranslator can translate the RVM file exported by AVEVA Plant(PDMS)/AVEVA Mar
 
 ![RvmTranslator in Linux](https://github.com/eryar/RvmTranslator/blob/master/7.png)
 
+## Notice
+RvmTranslator is open source software.
+
+
 ## Download
 You can download RvmTranslator from the following address:
 https://github.com/eryar/RvmTranslator/releases
