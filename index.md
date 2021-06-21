@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to RvmTranslator
+RvmTranslator can translate the RVM file exported by AVEVA Plant(PDMS)/AVEVA Marine(Tribon) to STEP, IGES, STL, DXF, 3D PDF, OBJ, 3DXML, IFC,.etc. So it can be used for exchanging model data between other CAD software, such as Autodesk AutoCAD, Plant3d, 3ds Max, CATIA, Solidworks, Pro/E, Unity3d, DIALux, .etc.
 
-You can use the [editor on GitHub](https://github.com/eryar/RvmTranslator/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Spooler model](https://github.com/eryar/RvmTranslator/blob/master/1.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Shipe Hull](https://github.com/eryar/RvmTranslator/blob/master/2.png)
 
-### Markdown
+![RvmTranslator in Linux](https://github.com/eryar/RvmTranslator/blob/master/3.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![RvmTranslator in Linux](https://github.com/eryar/RvmTranslator/blob/master/4.png)
 
-```markdown
-Syntax highlighted code block
+![RvmTranslator in Linux](https://github.com/eryar/RvmTranslator/blob/master/5.png)
 
-# Header 1
-## Header 2
-### Header 3
+![RvmTranslator in Linux](https://github.com/eryar/RvmTranslator/blob/master/6.png)
 
-- Bulleted
-- List
+![RvmTranslator in Linux](https://github.com/eryar/RvmTranslator/blob/master/7.png)
 
-1. Numbered
-2. List
+## Notice
+**RvmTranslator is not open source software. You can use 3D view function of RvmTranslator freely, other functions need pay for it.**
 
-**Bold** and _Italic_ and `Code` text
+**RvmTranslator不是开源软件，但你可以免费使用3D浏览功能，其他功能需要付费才能使用。**
 
-[Link](url) and ![Image](src)
-```
+## Download
+You can download RvmTranslator from the following address:
+https://github.com/eryar/RvmTranslator/releases
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Feedback
+Shing Liu (eryar@163.com)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eryar/RvmTranslator/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
