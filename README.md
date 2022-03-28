@@ -1,19 +1,12 @@
 # RvmTranslator
 RvmTranslator can translate the RVM file exported by AVEVA Plant(PDMS)/AVEVA Marine(Tribon) to STEP, IGES, STL, DXF, 3D PDF, OBJ, 3DXML, IFC,.etc. So it can be used for exchanging model data between other CAD software, such as Autodesk AutoCAD, Plant3d, 3ds Max, CATIA, Solidworks, Pro/E, Unity3d, DIALux, .etc.
 
-![Spooler model](https://github.com/eryar/RvmTranslator/blob/master/1.png)
+![Spooler model](https://user-images.githubusercontent.com/8439181/160504316-5444bb7e-106f-44e2-9e2e-16d3534beb12.png)
 
-![Shipe Hull](https://github.com/eryar/RvmTranslator/blob/master/2.png)
+![Ship Hull](https://user-images.githubusercontent.com/8439181/160504860-f66f271a-389e-4f01-81fc-46c7d9b29c0e.png)
 
-![RvmTranslator in Linux](https://github.com/eryar/RvmTranslator/blob/master/3.png)
+![RvmTranslator in Linux](https://user-images.githubusercontent.com/8439181/160504387-60373a51-8db4-41b5-a347-cbc894adc773.png)
 
-![RvmTranslator in Linux](https://github.com/eryar/RvmTranslator/blob/master/4.png)
-
-![RvmTranslator in Linux](https://github.com/eryar/RvmTranslator/blob/master/5.png)
-
-![RvmTranslator in Linux](https://github.com/eryar/RvmTranslator/blob/master/6.png)
-
-![RvmTranslator in Linux](https://github.com/eryar/RvmTranslator/blob/master/7.png)
 
 ## Notice
 **RvmTranslator is not open source software. You can use 3D view function of RvmTranslator freely, other functions need pay for it.**
