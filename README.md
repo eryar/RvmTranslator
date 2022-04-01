@@ -7,6 +7,9 @@ RvmTranslator can translate the RVM file exported by AVEVA Plant(PDMS)/AVEVA Mar
 
 ![RvmTranslator in Linux](https://user-images.githubusercontent.com/8439181/160504387-60373a51-8db4-41b5-a347-cbc894adc773.png)
 
+# Intergraph VUE
+RvmTranslator7.6.3 can import VUE of Intergraph SmartPlant3D.
+![MadisonPlant](https://user-images.githubusercontent.com/8439181/161260995-6c12ee35-4bb2-4cd1-95de-d9afb337b0f0.png)
 
 ## Notice
 **RvmTranslator is not open source software. You can use 3D view function of RvmTranslator freely, other functions need pay for it.**
